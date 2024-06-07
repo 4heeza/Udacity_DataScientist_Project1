@@ -1,6 +1,9 @@
 # "Teamwork makes the dream work" - is that true for board games?
 A quick, data-based review on the prevalence of co-operative board games using BoardGameGeek data from 2024
 
+### Link to Article
+https://medium.com/@jackaggoodfellow/teamwork-makes-the-dream-work-is-that-true-for-board-games-15d825cebc65
+
 ### Project Motivation
 
 Everybody has an experience of a board game getting too acrimonious or taking too long after it becomes simple to identify who is going to win.
